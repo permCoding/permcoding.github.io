@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+
+  font-size: 24px;
+  line-height: 1.2;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #45343A;
+
+  background: radial-gradient(40% 50%, #FAECD5, #CAE4D8);
+}
+
+div {
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+
+  font-weight: normal;
+  letter-spacing: -1px;
+}
+
+p {
+  margin: 20px 0;
+}
+
+a:link, a:visited {
+  color: #008080;
+  text-decoration: underline
+}
+
+a:hover {
+  text-decoration: none
+}
