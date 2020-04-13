@@ -7,7 +7,7 @@ body {
   font-family: Helvetica, Arial, sans-serif;
   color: #45343A;
 
-  background: radial-gradient(40% 50%, #FAECD5, #CAE4D8);
+  background: radial-gradient(50% 40%, #FAECD5, rgb(183, 221, 203));
 }
 
 div {
